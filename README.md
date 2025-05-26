@@ -18,9 +18,9 @@ I’m a driven QA Tester with hands-on experience in Manual Testing, Test Automa
 
 🕓 SQL Developer – Advanced Certification (In Progress)
 
-✅ Microsoft Azure Fundamentals (AZ-900)
+✅ Microsoft Azure 
 
-🕓 QA Automation/SDET Track (Ongoing)
+🕓 QA Automation/SDET 
 
 🛠 Technical Skills
 🔍 Manual Testing
